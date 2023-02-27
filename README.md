@@ -1,0 +1,1 @@
+# check-if-a-string-contains-a-specific-word-or-substring-in-PHP
